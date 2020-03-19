@@ -91,7 +91,7 @@ nav a{
 		font-size: 10px;
 		color: white;
 		top: 25%;
-		left: 35%;
+		margin-left: 480px;
 		position: absolute;
 		font-family: alconica; 
 		text-align: center;
@@ -139,6 +139,11 @@ div.gallery img {
 
 .description {
 	font-size: 15px;
+}
+
+.slides {
+	left: 50%;
+	right: 50%
 }
 
 label {
@@ -216,14 +221,14 @@ div.gallery a {
 		margin-left: 0;
 		margin-right: 0;
 		text-align: center;
-		left: -40%;
-		top: 10%;
+		position: fixed;
 	}
 
 	#contacts {
 		line-height: -20px;
 
 	}
+
 
 	.wrapper {
 	height: 350px;
@@ -258,7 +263,8 @@ div.gallery a {
 		opacity: 1;	
 		z-index: 1;
 		margin-top: -10px;
-		margin-left: -100px;
+		left: 50%;
+		right: 50%;
 	}
 
 	.modal-content {
@@ -267,6 +273,8 @@ div.gallery a {
 		height: 0;	
 		background-color: rgba(0,0,0,0.5);
 		z-index: -1;	
+		left: 0;
+		right: 0;
 	}
 
 	.navigation {
@@ -354,6 +362,20 @@ div.gallery a {
 		position: absolute;
 		font-family: alconica; 
 		text-align: center;
+	}
+
+		.contactcover{
+		margin-top: 45px;
+		height: 200px;
+		width: 100%;
+	}
+
+	.modal {
+		left: 0;
+		right: 0;
+		margin-left: -150px;
+		margin-top: -30px;
+
 	}
 
 }
