@@ -1,0 +1,115 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body{
+	background-color: #222;
+	font-family: sans-serif;
+	font-weight: 400;
+	position:relative;
+	min-height:100vh;
+	padding-bottom:58px;
+
+}
+
+main {
+	width:90vw;
+	margin: 0 auto;
+	padding: 30px 20px;
+}
+
+.logo {
+	height:20px;
+	width:80px;
+	margin-left:10px;	
+}
+
+header{
+	background-color: #55d6aa;
+	position:fixed;
+	padding:10px;
+	width:100%;
+}
+
+nav{
+	float:left;
+	margin-left:500px;
+	text-align: center;
+}
+
+nav ul{
+	clear: both;
+	position:fixed;
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 70px;
+	text-align: center;
+	padding:10px;
+}
+
+li a:hover {
+	color:blue;
+}
+
+nav a{
+	color:#444;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+div.gallery {
+	margin:10px;
+	border:1px solid #ccc;
+	float:left;
+	clear:both;
+}
+
+div.gallery:hover {
+	border:3px solid #777;
+}
+
+div.gallery img {
+	width:250px;
+	height:200px;
+}
+
+label {
+	padding:8px;
+	margin-left:10px;
+	text-align:left;
+	float:right;
+}
+
+h2 {
+	color:red;
+}
+
+div.gallery a {
+	text-decoration:none;
+	color:white;
+}
+
+.photos {
+	padding:60px;
+}
+
+.aboutSamal {
+	color:white;
+	padding:50px;
+}
+
+footer {
+	background-color:black;
+	padding:10px;
+	width:100%;
+	text-align:center;
+	size:.8em;
+	color:gray;
+	position:fixed;
+	bottom:0;
+}
