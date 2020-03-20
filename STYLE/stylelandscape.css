@@ -363,7 +363,7 @@ div.gallery a {
 		color: white;
 		top: 25%;
 		margin-left: 170px;
-		position: absolute;
+		position: fixed;
 		font-family: alconica; 
 		text-align: center;
 	}

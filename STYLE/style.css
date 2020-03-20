@@ -92,7 +92,7 @@ nav a{
 		color: white;
 		top: 25%;
 		left: 35%;
-		position: absolute;
+		position: fixed;
 		font-family: alconica; 
 		text-align: center;
 	}
@@ -216,7 +216,7 @@ div.gallery a {
 		margin-left: 0;
 		margin-right: 0;
 		text-align: center;
-		left: -43%;
+		left: -45%;
 		top: 10%;
 	}
 
