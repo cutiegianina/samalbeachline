@@ -219,6 +219,10 @@ div.gallery a {
 
 	}
 
+	.description01 {
+		font-size: 5px;
+	}
+
 
 	.wrapper {
 	height: 350px;
@@ -260,7 +264,7 @@ div.gallery a {
 /*--------TABLET-----------*/
 
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 813px){
 
 	nav {
 		float: right;
@@ -281,15 +285,10 @@ div.gallery a {
 		text-align: center;
 	}
 
-		.contactcover{
+	.contactcover{
 		margin-top: 45px;
 		height: 200px;
 		width: 100%;
-	}
-
-	.description01 {
-		font-size: 10px;
-		color: red;
 	}
 
 	.details {
@@ -301,7 +300,7 @@ div.gallery a {
 		right: 34.5%;
 		top: 50%;
 		padding-top: 500px;
-		position: absolute;
+		position: relative;
 	}
 
 	.details p {
@@ -311,13 +310,12 @@ div.gallery a {
 
 	.swiper-container {
 		max-height: 200px;
-		max-width: 670px;
-		height: auto;
+		max-width: 640px;
 	}
 
 	.swiper-wrapper img {
-		width: 670px;
-		height: 200px;
+		max-width: 640px;
+		max-height: 200px;
 		display: flex;
 		image-rendering: -webkit-optimize-contrast;
 	}
@@ -374,7 +372,7 @@ div.gallery a {
 	font-family: arial;
 	margin-top: 70px;
 	float: left;
-	font-size: 20px;
+	font-size: 10px;
 	margin-left: 30px;
 }
 
