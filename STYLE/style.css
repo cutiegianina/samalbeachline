@@ -91,7 +91,7 @@ nav a{
 		font-size: 10px;
 		color: white;
 		top: 25%;
-		left: 30%;
+		left: 35%;
 		position: absolute;
 		font-family: alconica; 
 		text-align: center;
@@ -216,7 +216,7 @@ div.gallery a {
 		margin-left: 0;
 		margin-right: 0;
 		text-align: center;
-		left: -40%;
+		left: -43%;
 		top: 10%;
 	}
 
@@ -349,9 +349,9 @@ div.gallery a {
 	.contact {
 		font-size: 10px;
 		color: white;
-		top: 25%;
+		top: 23%;
 		margin-left: 170px;
-		position: absolute;
+		position: fixed;
 		font-family: alconica; 
 		text-align: center;
 	}
