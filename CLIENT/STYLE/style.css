@@ -256,7 +256,7 @@ div.gallery a {
 	    width: 320px;
 	    height: 400px;
 	    margin-top: 10px;
-	    left: 5%;
+	    left: 4%;
 	    float: left;
 	    box-shadow: 4px 4px 4px 4px gray;
 	    clear: both;
@@ -277,7 +277,7 @@ div.gallery a {
 		margin-top: 15px;
 		background-color: lightgray;
 		opacity: .4;
-		height: 115px;
+		height: 90px;
 		width: 330px;
 		margin-left: 30px;
 
@@ -291,6 +291,18 @@ div.gallery a {
 		line-height: 10px;
 		color: black;
 		opacity: 100;
+	}
+
+	.space {
+		padding: 5px;
+	}
+
+	.detaillandscape {
+		display: none;
+	}
+
+	.brlandscape {
+		display: none;
 	}
 
 
