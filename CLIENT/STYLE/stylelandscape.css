@@ -311,6 +311,7 @@ div.gallery a {
 	.swiper-container {
 		max-height: 200px;
 		max-width: 640px;
+		position: absolute;
 	}
 
 	.swiper-wrapper img {
@@ -330,6 +331,10 @@ div.gallery a {
 
 	.detaillandscape {
 		display: block;
+	}
+
+	.description01 {
+		font-size: 15px;
 	}
 
 
@@ -372,7 +377,7 @@ div.gallery a {
 	font-family: arial;
 	margin-top: 70px;
 	float: left;
-	font-size: 10px;
+	font-size: 20px;
 	margin-left: 30px;
 }
 
