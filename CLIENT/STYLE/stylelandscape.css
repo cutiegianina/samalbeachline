@@ -297,10 +297,10 @@ div.gallery a {
 		float: left;
 		max-height: 80px;
 		max-width: 400px;
-		right: 34.5%;
-		top: 50%;
-		padding-top: 500px;
+		right: 30.5%;
 		position: relative;
+		bottom:0;
+		margin-bottom: 10px;
 	}
 
 	.details p {
@@ -311,7 +311,7 @@ div.gallery a {
 	.swiper-container {
 		max-height: 200px;
 		max-width: 640px;
-		position: relative;
+		position: absolute;
 	}
 
 	.swiper-wrapper img {
