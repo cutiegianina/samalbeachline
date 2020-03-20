@@ -1,0 +1,122 @@
+
+
+	<div class="swiper-container"><span class="close">x</span>
+<!-- Additional required wrapper -->
+   		<div class="swiper-wrapper">
+        <!-- Slides -->
+	        <div class="swiper-slide"><img src="IMAGE/IMG02/beachphoto1.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG02/beachphoto2.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG02/beachphoto3.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG02/beachphoto4.jpg"></div>
+	        ...
+	    </div>
+	    <!-- If we need pagination -->
+	    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next" style="margin-right: 80px;"></div>
+
+    <!-- If we need scrollbar -->
+	</div>
+
+	<div class="swiper-container"><span class="close">x</span>
+<!-- Additional required wrapper -->
+   		<div class="swiper-wrapper">
+        <!-- Slides -->
+	        <div class="swiper-slide"><img src="IMAGE/IMG03/beachphoto1.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG03/beachphoto2.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG03/beachphoto3.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG03/beachphoto4.jpg"></div>
+	        ...
+	    </div>
+	    <!-- If we need pagination -->
+	    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next" style="margin-right: 80px;"></div>
+
+    <!-- If we need scrollbar -->
+	</div>	
+
+	<div class="swiper-container"><span class="close">x</span>
+<!-- Additional required wrapper -->
+   		<div class="swiper-wrapper">
+        <!-- Slides -->
+	        <div class="swiper-slide"><img src="IMAGE/IMG04/beachphoto1.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG04/beachphoto2.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG04/beachphoto3.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG04/beachphoto4.jpg"></div>
+	        ...
+	    </div>
+	    <!-- If we need pagination -->
+	    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next" style="margin-right: 80px;"></div>
+
+    <!-- If we need scrollbar -->
+	</div>
+
+
+	<div class="swiper-container"><span class="close">x</span>
+<!-- Additional required wrapper -->
+   		<div class="swiper-wrapper">
+        <!-- Slides -->
+	        <div class="swiper-slide"><img src="IMAGE/IMG05/beachphoto1.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG05/beachphoto2.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG05/beachphoto3.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG05/beachphoto4.jpg"></div>
+	        ...
+	    </div>
+	    <!-- If we need pagination -->
+	    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next" style="margin-right: 80px;"></div>
+
+    <!-- If we need scrollbar -->
+	</div>
+
+	<div class="swiper-container"><span class="close">x</span>
+<!-- Additional required wrapper -->
+   		<div class="swiper-wrapper">
+        <!-- Slides -->
+	        <div class="swiper-slide"><img src="IMAGE/IMG06/beachphoto1.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG06/beachphoto2.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG06/beachphoto3.jpg"></div>
+	        ...
+	    </div>
+	    <!-- If we need pagination -->
+	    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next" style="margin-right: 80px;"></div>
+
+    <!-- If we need scrollbar -->
+	</div>
+
+	<div class="swiper-container"><span class="close">x</span>
+<!-- Additional required wrapper -->
+   		<div class="swiper-wrapper">
+        <!-- Slides -->
+	        <div class="swiper-slide"><img src="IMAGE/IMG07/beachphoto1.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG07/beachphoto2.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG07/beachphoto3.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG07/beachphoto4.jpg"></div>
+	        <div class="swiper-slide"><img src="IMAGE/IMG07/beachphoto5.jpg"></div>
+	        ...
+	    </div>
+	    <!-- If we need pagination -->
+	    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next" style="margin-right: 80px;"></div>
+
+    <!-- If we need scrollbar -->
+	</div>
