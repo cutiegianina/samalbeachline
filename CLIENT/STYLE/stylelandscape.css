@@ -311,7 +311,7 @@ div.gallery a {
 	.swiper-container {
 		max-height: 200px;
 		max-width: 640px;
-		position: absolute;
+		position: relative;
 	}
 
 	.swiper-wrapper img {
@@ -334,7 +334,7 @@ div.gallery a {
 	}
 
 	.description01 {
-		font-size: 15px;
+		font-size: 20px;
 	}
 
 
