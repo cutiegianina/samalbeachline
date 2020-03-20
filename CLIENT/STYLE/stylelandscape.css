@@ -298,7 +298,7 @@ div.gallery a {
 		max-height: 80px;
 		max-width: 400px;
 		right: 30.5%;
-		position: absolute;
+		position: relative;
 		padding-top: 80px;
 		bottom:0;
 		margin-bottom: 10px;
@@ -312,7 +312,6 @@ div.gallery a {
 	.swiper-container {
 		max-height: 200px;
 		max-width: 640px;
-		position: absolute;
 	}
 
 	.swiper-wrapper img {
@@ -393,7 +392,6 @@ div.gallery a {
 	text-align: left;
 	padding: 20px;
 	font-size: 15px;
-	position: absolute;
 
 }
 
