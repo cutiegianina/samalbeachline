@@ -249,7 +249,9 @@ div.gallery a {
 	.photos {
 		padding:28px;
 		padding-top:100px;
+		margin-right: 5px;
 	}
+
 
 	.modal {
 		max-width: 350px;
