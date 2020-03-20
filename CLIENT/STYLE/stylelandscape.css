@@ -298,7 +298,7 @@ div.gallery a {
 		max-height: 80px;
 		max-width: 400px;
 		right: 30.5%;
-		position: relative;
+		position: absolute;
 		padding-top: 80px;
 		bottom:0;
 		margin-bottom: 10px;
@@ -393,7 +393,7 @@ div.gallery a {
 	text-align: left;
 	padding: 20px;
 	font-size: 15px;
-	position: fixed;
+	position: absolute;
 
 }
 
