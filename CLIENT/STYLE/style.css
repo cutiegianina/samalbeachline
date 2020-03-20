@@ -264,8 +264,8 @@ div.gallery a {
 
 	.swiper-container img {
 		image-rendering: -webkit-optimize-contrast;
-		max-width: 320px;
-		max-height: 400px;
+		width: 320px;
+		height: 400px;
 		display: flex;
 	}
 
