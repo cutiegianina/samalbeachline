@@ -190,6 +190,10 @@ div.gallery a {
 	  color: silver;
 	} 
 
+	header {
+		top: 0;
+	}
+
 	nav {
 		line-height: 10px;
 		float: left;
@@ -256,7 +260,7 @@ div.gallery a {
 	    width: 320px;
 	    height: 400px;
 	    margin-top: 10px;
-	    left: 3.2%;
+	    left: 3%;
 	    float: left;
 	    box-shadow: 4px 4px 4px 4px gray;
 	    clear: both;
@@ -272,7 +276,7 @@ div.gallery a {
 	.description01 {
 		color: gray;
 		font-family: arial;
-		margin-top: 120px;
+		margin-top: 70px;
 		float: left;
 		font-size: 20px;
 		margin-left: 30px;
